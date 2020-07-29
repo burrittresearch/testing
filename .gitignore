@@ -1,0 +1,8 @@
+# This is a gitignore file
+
+# Ignore jupyterlab checkpoints
+.ipynb_checkpoints/
+
+
+
+
